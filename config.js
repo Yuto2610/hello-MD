@@ -10,18 +10,18 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6289515023118']
-global.pengguna = 'CekilXD'
+global.owner = ['628970706704']
+global.pengguna = 'Iman'
 global.premium = []
-global.author = 'CekilXD'
-global.pemilik = ['6289515023118'] 
-global.ownernomer = '6289515023118'
-global.ownername = 'cekilXd'
-global.botname = 'CekilBOT - MD'
+global.author = 'Iman'
+global.pemilik = ['628970706704'] 
+global.ownernomer = '628970706704'
+global.ownername = 'Iman'
+global.botname = 'NoarTakt - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6289515023118'
-global.footer = 'CEKIL - MD'
+global.meki = '628970706704'
+global.footer = 'Noar - MD'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'CekilXd' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Note : Jika Kamu Menggunakan Whatshapp Mod Atau Versi Lama Button Menu Tidak Kelihatan Silahkan Ketik allmenu Untuk Fitur Bot'
